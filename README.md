@@ -1,14 +1,14 @@
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7EC3D&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Roberto+Macias" alt="Typing SVG"></a>
-</p>
-
-<p align="center">
-    <img src="./images/footer.png" align="center" />
-</p>
-
-<p align="center">
-    My profile page is on the making, next time you visit my profile it'll be finished. :wink:
-</p>
+<section id="header">
+    <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7EC3D&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Roberto+Macias" alt="Typing SVG">
+    </p>
+    <p align="center">
+        <img src="./images/header.png" align="center" />
+    </p>
+    <p align="center">
+        I'm currently studying my last year of my Software Engineering degree at Universidad de la Salle Bajio in Leon, Mexico. I'm very passionate about programming, it is one of the things that I enjoy the most, I like the challenges it brings with itself. I love to explore technologies and always learn new things to be able to solve problems. My main focus is on Web and Mobile Development.
+    </p>
+</section>
 
 <section id="technologies">
     <h2 align="center">Technologies</h2>
@@ -33,7 +33,6 @@
         <img src="images/git.svg" width="40">
     </p>
 </section>
-
 
 <section id="stats">
     <h2 align="center">Some of my GitHub stats</h2>
