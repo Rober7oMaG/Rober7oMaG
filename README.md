@@ -1,12 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7EC3D&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Roberto+Macias)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7EC3D&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Roberto+Macias" alt="Typing SVG"></a>
+</p>
 
-My profile page is on the making, next time you visit my profile it'll be finished. :wink:
+<p align="center">My profile page is on the making, next time you visit my profile it'll be finished. :wink:</p>
 
-### Some of my GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rober7oMaG&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Technologies</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rober7oMaG&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<section id="stats">
+    <h2 align="center">Some of my GitHub stats</h2>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rober7oMaG&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rober7oMaG&layout=compact&theme=tokyonight">
+    </p>
+    <p align = "center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rober7oMaG&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+    </p> 
+    <p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Rober7oMaG&theme=tokyo-night">
+    </p>
+</section>
 
-<img src="./images/footer.png" />
+<img src="./images/footer.png" align="center" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center">
