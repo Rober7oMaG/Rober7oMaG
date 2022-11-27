@@ -50,6 +50,18 @@
     </p>
 </section>
 
+<section id="contact">
+    <h2 align="center">Contact</h2>
+    <p align="center" style="display: flex; justify-content: center; gap: 15px">
+        <a href="https://www.linkedin.com/in/roberto-macias-21aug2001/">
+            <img src="images/linkedin.svg" width="40">
+        </a>
+        <a href="mailto:robertomag7@hotmail.com">
+            <img src="images/email.svg" width="40" style="background-color: white; border-radius: 5px">
+        </a>
+    </p>
+</section>
+
 <br>
 
 <p align="center">
