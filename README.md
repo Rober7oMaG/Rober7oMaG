@@ -57,7 +57,7 @@
             <img src="images/linkedin.svg" width="40">
         </a>
         <a href="mailto:robertomag7@hotmail.com">
-            <img src="images/email.svg" width="40" style="background-color: white; border-radius: 5px">
+            <img src="images/email.png" width="40">
         </a>
     </p>
 </section>
