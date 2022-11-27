@@ -12,7 +12,7 @@
 
 <section id="technologies">
     <h2 align="center">Technologies</h2>
-    <p align="center" style="display: flex; justify-content: center; gap: 15px">
+    <p align="center" style="display: flex; justify-content: center; gap: 25px">
         <img src="images/html.svg" width="40">
         <img src="images/css.svg" width="40">
         <img src="images/javascript.svg" width="40">
@@ -22,7 +22,7 @@
         <img src="images/react.svg" width="40">
         <img src="images/nextjs.svg" width="40">
     </p>
-    <p align="center" style="display: flex; justify-content: center; gap: 15px">
+    <p align="center" style="display: flex; justify-content: center; gap: 25px">
         <img src="images/nodejs.svg" width="40">
         <img src="images/mysql.svg" width="40">
         <img src="images/mongodb.svg" width="40">
