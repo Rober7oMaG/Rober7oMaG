@@ -1,11 +1,3 @@
-<style>
-    .row {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-    }
-</style>
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7EC3D&center=true&vCenter=true&width=435&lines=Hello+World!;My+name+is+Roberto+Macias" alt="Typing SVG"></a>
 </p>
@@ -20,15 +12,25 @@
 
 <section id="technologies">
     <h2 align="center">Technologies</h2>
-    <p align="center">
-        <div class="row">
-            <img src="images/html.svg" width="40">
-            <img src="images/css.svg" width="40">
-            <img src="images/javascript.svg" width="40">
-            <img src="images/typescript.svg" width="40">
-            <img src="images/php.svg" width="40">
-            <img src="images/react.svg" width="40">
-        </div>
+    <p align="center" style="display: flex; justify-content: center; gap: 15px">
+        <img src="images/html.svg" width="40">
+        <img src="images/css.svg" width="40">
+        <img src="images/javascript.svg" width="40">
+        <img src="images/typescript.svg" width="40">
+        <img src="images/php.svg" width="40">
+        <img src="images/laravel.svg" width="40">
+        <img src="images/react.svg" width="40">
+        <img src="images/nextjs.svg" width="40">
+    </p>
+    <p align="center" style="display: flex; justify-content: center; gap: 15px">
+        <img src="images/nodejs.svg" width="40">
+        <img src="images/mysql.svg" width="40">
+        <img src="images/mongodb.svg" width="40">
+        <img src="images/python.svg" width="40">
+        <img src="images/swift.svg" width="40">
+        <img src="images/sass.svg" width="40">
+        <img src="images/tailwindcss.svg" width="40">
+        <img src="images/git.svg" width="40">
     </p>
 </section>
 
