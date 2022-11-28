@@ -53,7 +53,7 @@
 <section id="contact">
     <h2 align="center">Contact</h2>
     <p align="center" style="display: flex; justify-content: center; gap: 15px">
-        <a href="https://www.linkedin.com/in/roberto-macias-21aug2001/">
+        <a href="https://www.linkedin.com/in/robertomacias2001/">
             <img src="images/linkedin.svg" width="40">
         </a>
         <a href="mailto:robertomag7@hotmail.com">
