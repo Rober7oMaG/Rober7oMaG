@@ -46,7 +46,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rober7oMaG&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
     </p> 
     <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Rober7oMaG&theme=tokyo-night">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rober7oMaG&theme=tokyo-night">
     </p>
 </section>
 
