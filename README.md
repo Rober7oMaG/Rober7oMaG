@@ -6,7 +6,7 @@
         <img src="./images/header.png" align="center" />
     </p>
     <p align="center">
-        I'm currently studying my last year of my Software Engineering degree at Universidad de la Salle Bajio in Leon, Mexico. I'm very passionate about programming, it is one of the things that I enjoy the most, I like the challenges it brings with itself. I love to explore technologies and always learn new things to be able to solve problems. My main focus is on Web and Mobile Development.
+        I'm a software engineer and I'm very passionate about programming, it is one of the things that I enjoy the most, I like the challenges it brings with itself. I love to explore technologies and always learn new things to be able to solve problems. My main focus is on Web and Mobile Development.
     </p>
 </section>
 
