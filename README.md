@@ -13,24 +13,30 @@
 <section id="technologies">
     <h2 align="center">Technologies</h2>
     <p align="center" style="display: flex; justify-content: center; gap: 25px">
-        <img src="images/html.svg" width="40">
-        <img src="images/css.svg" width="40">
-        <img src="images/javascript.svg" width="40">
-        <img src="images/typescript.svg" width="40">
-        <img src="images/php.svg" width="40">
-        <img src="images/laravel.svg" width="40">
-        <img src="images/react.svg" width="40">
-        <img src="images/nextjs.svg" width="40">
+        <img src="images/html.png" width="40">
+        <img src="images/css.png" width="40">
+        <img src="images/javascript.png" width="40">
+        <img src="images/typescript.jpg" width="40">
+        <img src="images/php.png" width="40">
+        <img src="images/react.png" width="40">
+        <img src="images/next.png" width="40">
     </p>
     <p align="center" style="display: flex; justify-content: center; gap: 25px">
-        <img src="images/nodejs.svg" width="40">
-        <img src="images/mysql.svg" width="40">
-        <img src="images/mongodb.svg" width="40">
-        <img src="images/python.svg" width="40">
-        <img src="images/swift.svg" width="40">
-        <img src="images/sass.svg" width="40">
+        <img src="images/node.png" width="40">
+        <img src="images/nestjs.png" width="40">
+        <img src="images/mongodb.png" width="40">
+        <img src="images/mysql.png" width="40">
+        <img src="images/firebase.png" width="40">
+        <img src="images/sass.png" width="40">
         <img src="images/tailwindcss.svg" width="40">
-        <img src="images/git.svg" width="40">
+    </p>
+    <p align="center" style="display: flex; justify-content: center; gap: 25px">
+        <img src="images/python.png" width="40">
+        <img src="images/django.svg" width="40">
+        <img src="images/flutter.png" width="40">
+        <img src="images/aws.png" width="40">
+        <img src="images/docker.png" width="40">
+        <img src="images/git.png" width="40">
     </p>
 </section>
 
@@ -46,7 +52,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rober7oMaG&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
     </p> 
     <p align="center">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rober7oMaG&theme=tokyo-night">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rober7oMaG&theme=tokyo-night">
     </p>
 </section>
 
